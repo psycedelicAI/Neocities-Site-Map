@@ -1,4 +1,3 @@
-Ja 😄 Här kommer ett första komplett README-utkast som du kan granska. Jag har gjort det som en rejäl, klickbar karta och markerat sådant vars exakta adress eller nuvarande status behöver kollas mot Neocities innan vi kallar listan färdig.
 # 🌐 PsycedelicAI Neocities — The Complete Site Map
 
 > A map of the websites, pages, projects, research, gaming spaces, styles and
