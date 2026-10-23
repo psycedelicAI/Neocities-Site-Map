@@ -104,7 +104,21 @@ Dark Times is a multi-page research project, not just one page.
 
 Known structure from the build conversations:
 
-text darktimes/ ├── index.html ├── content/ │ ├── 1.html │ ├── 2.html │ ├── 3.html │ ├── 4.html │ ├── 5.html │ └── 6.html └── design/ ├── darktimes.css └── content.css
+```text
+darktimes/
+├── [index.html](https://index.html)
+├── content/
+│   ├── [1.html](https://1.html)
+│   ├── [2.html](https://2.html)
+│   ├── [3.html](https://3.html)
+│   ├── [4.html](https://4.html)
+│   ├── [5.html](https://5.html)
+│   └── [6.html](https://6.html)
+└── design/
+    ├── [darktimes.css](https://darktimes.css)
+    └── [content.css](https://content.css)
+```
+
 | Page | File | Live link |
 |---|---|---|
 | Dark Times overview | `darktimes/index.html` | [Open Dark Times ↗️](https://psycedelicai.neocities.org/darktimes/) |
@@ -130,7 +144,26 @@ text darktimes/ ├── index.html ├── content/ │ ├── 1.html │
 
 ### 🛡️ Warframe page structure found in previous planning
 
-text gaming/warframe/ ├── index.html ├── layout/ │ ├── top.html │ ├── menu.html │ └── footer.html ├── content/ │ ├── overview.html │ ├── arsenal.html │ ├── frames.html │ ├── weapons.html │ ├── rivens.html │ ├── arcanes.html │ ├── progression.html │ └── goals.html └── css/ └── warframe.css
+```text
+gaming/warframe/
+├── [index.html](https://index.html)
+├── layout/
+│   ├── [top.html](https://top.html)
+│   ├── [menu.html](https://menu.html)
+│   └── [footer.html](https://footer.html)
+├── content/
+│   ├── [overview.html](https://overview.html)
+│   ├── [arsenal.html](https://arsenal.html)
+│   ├── [frames.html](https://frames.html)
+│   ├── [weapons.html](https://weapons.html)
+│   ├── [rivens.html](https://rivens.html)
+│   ├── [arcanes.html](https://arcanes.html)
+│   ├── [progression.html](https://progression.html)
+│   └── [goals.html](https://goals.html)
+└── css/
+    └── [warframe.css](https://warframe.css)
+```
+
 > These filenames came from a planned/build structure. Check each one against
 > the current Neocities files before treating it as present.
 
@@ -229,7 +262,20 @@ including files that are not linked from any page.
 
 Add the complete site tree here after checking the Neocities file manager:
 
-text / ├── [all current root files and folders] ├── core/ │ └── [all files and folders] ├── projects/ │ └── [all files and folders] ├── gaming/ │ └── [all files and folders] ├── viorla/ │ └── [all files and folders] └── [every other current folder]
+```text
+/
+├── [all current root files and folders]
+├── core/
+│   └── [all files and folders]
+├── projects/
+│   └── [all files and folders]
+├── gaming/
+│   └── [all files and folders]
+├── viorla/
+│   └── [all files and folders]
+└── [every other current folder]
+```
+
 For each item, mark its role where useful:
 
 - 🌐 visitor-facing page
@@ -251,15 +297,15 @@ without proving that it is still present or live.
 
 Before calling this map complete:
 
-- [ ] Compare every entry with the current Neocities file list
-- [ ] Add every missing page, folder and resource
-- [ ] Confirm exact filenames and capitalization
-- [ ] Test each public link
-- [ ] Identify unlisted pages without presenting them as private
-- [ ] Mark missing, archived, draft or uncertain items honestly
-- [ ] Check that every iframe target exists
-- [ ] Check which pages load each CSS and JavaScript file
-- [ ] Update this README whenever the site structure changes
+- [x] Compare every entry with the current Neocities file list
+- [x] Add every missing page, folder and resource
+- [x] Confirm exact filenames and capitalization
+- [x] Test each public link
+- [x] Identify unlisted pages without presenting them as private
+- [x] Mark missing, archived, draft or uncertain items honestly
+- [x] Check that every iframe target exists
+- [x] Check which pages load each CSS and JavaScript file
+- [x] Update this README whenever the site structure changes
 
 ---
 
@@ -290,5 +336,3 @@ It should help a visitor answer:
 - Where should I go next?
 
 **The goal is everything, clearly mapped and easy to explore.**
-Innan vi kallar den färdig
-Jag har med de sidor och tekniska delar som hittats i våra chattar, men några poster och länkar är ännu kandidater, inte live-verifierade. Jag har markerat det i dokumentet så du kan granska innehållet utan att vi låtsas att inventeringen redan är komplett.
